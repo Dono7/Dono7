@@ -6,10 +6,6 @@ I enjoy working with new technologies, programming languages, and frameworks. I 
 
 ## Current Projects 
 
-### Minesweeperjs 💣 💥
-
-I started developing [minesweeperjs](https://github.com/Dono7/MinesweeperJS) in 2020, a javascript package that contains to logic of the Minesweeper game. The package is available on NPM or usable in the browser via a CDN.
-
 ### Unlighter 💡 🖥️
 
 <a href="https://github.com/Dono7/Unlighter" target="_blank">
@@ -24,6 +20,10 @@ You can also visit the website to **download the app** or try an **online demo**
 https://unlighter.app/
 
 This project is build using **Vue 3** and **Electron JS v15**. The website is also made with **Vue 3**, and deployed with **Google Firebase**. The first "official public version" was released in October 2021.
+
+### Minesweeperjs 💣 💥
+
+I started developing [minesweeperjs](https://github.com/Dono7/MinesweeperJS) in 2020, a javascript package that contains to logic of the Minesweeper game. The package is available on NPM or usable in the browser via a CDN.
 
 # Reach me 📫
 
