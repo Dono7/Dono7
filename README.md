@@ -10,11 +10,11 @@ I enjoy working with new technologies, programming languages, and frameworks. I 
 
 I started developing [minesweeperjs](https://github.com/Dono7/MinesweeperJS) in 2020, a javascript package that contains to logic of the Minesweeper game. The package is available on NPM or usable in the browser via a CDN.
 
+### Unlighter 💡 🖥️
+
 <a href="https://github.com/Dono7/Unlighter" target="_blank">
   <img align="right" src="unlighter-preview.png" alt="Unlighter screenshot preview" />
 </a>
-
-### Unlighter 💡 🖥️
 
 By far my biggest project, [Unlighter](https://unlighter.app/) is a free an open-source software that helps you reduce your screens brightness. It can work with every type of screens (laptop screen, or plugged monitors), up to 4 screens at the same time.
 
