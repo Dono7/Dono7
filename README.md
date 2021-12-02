@@ -4,6 +4,8 @@ My name is Donovan, I am a web and software developer. I also have a strong inte
 
 I enjoy working with new technologies, programming languages, and frameworks. I have a special attachment to **Javascript** and **VueJS**. I also work with **Figma** or **Photoshop** for designing or prototyping my websites and apps. I am currently learning **Typescript** and **Three.JS** (3D rendering with Javascript).
 
+![Dono7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dono7&count_private=true&show_icons=true&theme=blueberry)
+
 ## Current Projects 
 
 ### Unlighter 💡 🖥️
